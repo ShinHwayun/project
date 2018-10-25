@@ -7,6 +7,7 @@ git config--global user.email "Your email address"
 git clone <저장소url>
 ### _새로운 원격 저장소 추가하기_
 git remote add <원격 저장소> <저장소url>
+
 ## 2. 기본적인 사용법
 ### _새로운 파일을 추가하거나 존재하는 파일 스테이징하고 커밋하기_
 git add <파일>
