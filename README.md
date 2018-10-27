@@ -61,11 +61,13 @@ git remote add <원격 저장소> <저장소 url>
 
 
 ## 6. 그 외 자주 사용되는 명령어
+### _저장소 생성_
+git init
 ### _브랜치명 브랜치를 만들고 바로 이동_
 git checkout
 ### _브랜치 삭제_
 git branch -d(D) test
-### _현재상태(머지나 추가사항) 확인_
+### _현재상태(추가사항) 확인_
 git status
 ### _임시저장_
 git stash
