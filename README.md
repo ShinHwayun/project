@@ -60,6 +60,25 @@ git clone <저장소>
 git remote add <원격 저장소> <저장소 url>
 
 
+## 6. 그 외 자주 사용되는 명령어
+### _브랜치명 브랜치를 만들고 바로 이동_
+git checkout
+### _브랜치 삭제
+git branch -d(D) test
+### _현재상태(머지나 추가사항) 확인_
+git status
+### _경로 에러를 해결하고 추가하여 에러해결_
+git add
+### _임시저장_
+git stash
+### _임시저장한파일 불러오기_
+git stash pop
+### _깃랩에서 삭제한거 서버와 동기화_
+git remote prune origin
+### _브랜치네임 서버에서 삭제하기_
+git push origin
+
+
 # markdown 문법
 **markdown** 은 마크업 언어의 일종으로, 존 그루버(John Gruber)와 아론 스워츠(Aaron Swartz)가 만들었다.
 읽기쓰기가 쉽다는 장점이 있으나, 멀티미디어 삽입이 불편하고 확장 문법이 많다는 단점이 있다.
