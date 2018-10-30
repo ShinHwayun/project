@@ -77,10 +77,9 @@ git stash pop
 git remote prune origin
 #### _브랜치네임 서버에서 삭제하기_
 git push origin
-
-
+<br>
 <hr/>
-
+<br>
 
 # markdown 문법
 > * **markdown** 은 마크업 언어의 일종으로, 존 그루버(John Gruber)와 아론 스워츠(Aaron Swartz)가 만들었다.
