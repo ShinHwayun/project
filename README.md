@@ -1,11 +1,11 @@
 # git 명령어
 ### 1. 설정과 초기화
-##### _전역 사용자명/이메일 구성하기_
+#### _전역 사용자명/이메일 구성하기_
 git config--global user.name "Your name"
 git config--global user.email "Your email address"
-##### _저장소 복제하기_
+#### _저장소 복제하기_
 git clone <저장소url>
-##### _새로운 원격 저장소 추가하기_
+#### _새로운 원격 저장소 추가하기_
 git remote add <원격 저장소> <저장소url>
 
 
