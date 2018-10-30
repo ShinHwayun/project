@@ -109,15 +109,15 @@ git push origin
 
 ##### 2. 목록
 ~~~
-* 순서 있는 목록 (번호와 점 사용)
-* 순서 없는 목록 (*) <- (* , + , - 혼합 사용이 가능함)
+1. 순서 있는 목록 (번호와 점 사용)
+2. 순서 없는 목록 (*) <- (* , + , - 혼합 사용이 가능함)
 ~~~
 
 ##### 3. 링크
 ~~~
-* 참조링크 URL "optional title"
-* 인라인링크 [title](link)
-* 자동연결 <address@example.com>
+1. 참조링크 URL "optional title"
+2. 인라인링크 [title](link)
+3. 자동연결 <address@example.com>
 ~~~
 
 ##### 4. 강조
